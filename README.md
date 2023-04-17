@@ -8,4 +8,6 @@ This library contains not only standart functions but also my own functions.
 
 ## How to use?
 
-```bash```Make
+Run ```Make```
+
+You'll see libft.a file as an output - this is the library that was compiled
